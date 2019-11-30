@@ -1,0 +1,9 @@
+{
+  "list": [
+    { "id": 1, "src": "https://picsum.photos/id/1018/600/400" },
+    { "id": 2, "src": "https://picsum.photos/id/1019/600/400" },
+    { "id": 3, "src": "https://picsum.photos/id/1020/600/400" },
+    { "id": 4, "src": "https://picsum.photos/id/1021/600/400" },
+    { "id": 5, "src": "https://picsum.photos/id/1022/600/400" }
+  ]
+}
